@@ -14,7 +14,7 @@ sap.ui.jsview("testproject.firstView", {
 	*/ 
 	createContent : function(oController) {
  		return new sap.m.Page({
-			title: "Title",
+			title: "Innovation project",
 			content: [
 			
 			]
